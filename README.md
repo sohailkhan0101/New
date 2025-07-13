@@ -4,12 +4,12 @@
 
 > An AI-powered e-commerce prototype that senses user mood in real-time and adapts the shopping experience to reduce stress and decision fatigue. Built for mental well-being.
 
----
+-
 
 ## 🎯 Problem
 Many online shoppers—especially those with anxiety or decision paralysis—feel overwhelmed while browsing. This leads to cart abandonment, impulse buying, and stress. Current platforms rarely address mental well-being.
 
----
+--
 
 ## 💡 Solution
 This project leverages **real-time emotion detection** using webcam input and adaptive product recommendations to:
